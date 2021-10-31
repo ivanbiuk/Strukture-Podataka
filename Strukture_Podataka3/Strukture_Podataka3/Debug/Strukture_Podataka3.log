@@ -1,0 +1,4 @@
+﻿  Strukture_Podataka3.c
+C:\Users\Administrator\source\repos\Strukture_Podataka3\Strukture_Podataka3\Strukture_Podataka3.c(274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Strukture_Podataka3\Strukture_Podataka3\Strukture_Podataka3.c(278,15): warning C4013: 'isdigit' undefined; assuming extern returning int
+  Strukture_Podataka3.vcxproj -> C:\Users\Administrator\source\repos\Strukture_Podataka3\Debug\Strukture_Podataka3.exe
