@@ -1,0 +1,4 @@
+Initial binary tree: 
+77 63 58 34 20 
+Binary tree after replacing values: 
+0 169 34 0 232 
