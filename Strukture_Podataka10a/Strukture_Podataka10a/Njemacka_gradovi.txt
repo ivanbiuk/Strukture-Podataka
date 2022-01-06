@@ -1,3 +1,0 @@
-Berlin 5000000
-Frankfurt 2000000
-Munchen 300000
